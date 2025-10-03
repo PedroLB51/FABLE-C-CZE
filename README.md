@@ -1,16 +1,13 @@
+<span style="font-size: 12px;">
 
 # FABLE-C-CZE Version Control Guidelines
-
 ## 1. Project Overview
-
-    This document outlines the version control workflow for the FABLE Calculator for the Czech Republic. We use **Git/GitHub** for code and documentation versioning, **DVC (Data Versioning Control)** for managing Excel data files and large datasets.
-
+    This document outlines the version control workflow for the FABLE Calculator for the Czech Republic. 
+    We use **Git/GitHub** for code and documentation versioning, **DVC (Data Versioning Control)** for managing Excel data files and large datasets.
 ## 2. Repository Structure
-
     The Repository hosts the national calibration data, scripts, and metadata for the Czech Republic's version of the FABLE Calculator.
-
-    The structure display the following outline:
-
+    
+The structure display the following outline:
     FABLE-C-CZE/
     ├── raw/                  # Original, immutable data from sources
     │   ├── cso/              # Czech Statistical Office (ČSÚ)
@@ -29,14 +26,11 @@
     ├── upstream/             # Official FABLE files from the Secretariat (baselines, updates)
     ├── outputs/              # Model results and reports
     ├── metadata/             # Documentation, dara dictionaries and metadata files
-
 ## 3. Workflow for handling files
-
     Files are stored in **local** folder base on category. 
     Raw data is immutable, processed data will be updated as part of calibration.
     Every update, changes or new version of a file should be also updated on the GitHub with a commit comment.
     Files should not be modify directly on the GitHub website.
-
 ### Update files
     git pull
     dvc pull
@@ -92,3 +86,5 @@
     Based on the FABLE Calculator
     IDE: Visual Studio Code
     For internal use: not all data may be public
+
+
