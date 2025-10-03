@@ -1,0 +1,2 @@
+dataset_name,file_path,category,source_institution,source_link,year_start,year_end,geographical_coverage,variables,units,processing_steps,related_fable_headers,contact_person,last_update,notes
+harvested_area_trends,raw/cso/ZEM02G.xlsx,agriculture,Czech Statistical Office,hhttps://csu.gov.cz,"Crop harvested area, yield, and production","ha; t/ha; t",,"",,2025-02-24,
