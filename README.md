@@ -17,6 +17,7 @@ The Repository hosts the national calibration data, scripts, and metadata.
     │   │
     ├── processed/            # Cleaned, transformed data in FABLE format
     │   ├── agriculture/      # Crop and Livestock
+    │   ├── population/       # Demography and economics
     │   ├── biodiversity/     # Biodiversity indicators
     │   ├── land_use/         # Land use and land use change
     │   └── emissions/        # GHG and air pollution
@@ -28,7 +29,7 @@ The Repository hosts the national calibration data, scripts, and metadata.
     ├── metadata/             # Documentation, data dictionaries and metadata files
 ```
 ## 3. Workflow for handling files
-Files are stored **in local** folder base on category.
+Files are stored **in the CzechGlobe CESNET ownCloud environment** base on their category.
  
 Raw data **is immutable**, processed data will be updated as part of calibration.
 
@@ -54,7 +55,7 @@ dvc push
 git push
 ```
 ### Download and check Datasets
-```bashraw/cso
+```bash
 git pull
 dvc pull
 ```
