@@ -39,7 +39,7 @@ Files should not be modify directly on the GitHub website.
 ```bash
 git pull
 dvc pull
-dvc add folderlocation/filename.xlsx* # Example: processed/agriculture/crop_production_cso_2000-2025.xlsx
+dvc add folderlocation/filename.xlsx # Example: processed/agriculture/crop_production_cso_2000-2025.xlsx
 git add .
 git commit -m "[folderlocation]: Descriptive message about changes" # Example: [processed/agriculture]: updated crop production including 2025"
 dvc push
@@ -54,7 +54,7 @@ dvc push
 git push
 ```
 ### Download and check Datasets
-```bash
+```bashraw/cso
 git pull
 dvc pull
 ```
