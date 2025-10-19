@@ -1,0 +1,6 @@
+outs:
+- md5: 9c60682c2de33ecae255d8a909e631fc.dir
+  size: 12207
+  nfiles: 1
+  hash: md5
+  path: yield
