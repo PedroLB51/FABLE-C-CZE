@@ -1,9 +1,1 @@
-[core]
-    remote = cesnet
-['remote "owncloud"']
-    url = ../webdav
-['remote "cesnet"']
-    url = https://owncloud.cesnet.cz/remote.php/webdav/FABLE-C-CZE
-    auth = basic
-    user = lezama.p@cesnet.cz
-    password = $env:WEBDAV_PASS
+
