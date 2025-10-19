@@ -1,0 +1,6 @@
+outs:
+- md5: b9162cb698510f68198302ff74ead784.dir
+  size: 96052
+  nfiles: 1
+  hash: md5
+  path: emissions
