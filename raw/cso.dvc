@@ -1,0 +1,6 @@
+outs:
+- md5: 97f3ac287c07f91784ab87d313376c8d.dir
+  size: 2399295
+  nfiles: 110
+  hash: md5
+  path: cso
