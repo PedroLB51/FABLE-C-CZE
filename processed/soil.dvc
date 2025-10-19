@@ -1,0 +1,6 @@
+outs:
+- md5: c6563cf34710f98aa8951959efc044ef.dir
+  size: 14588
+  nfiles: 1
+  hash: md5
+  path: soil
