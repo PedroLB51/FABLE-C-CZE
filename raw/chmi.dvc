@@ -1,0 +1,6 @@
+outs:
+- md5: bfcc15f5925981e9fe7339f889a62c17.dir
+  size: 22712702
+  nfiles: 2
+  hash: md5
+  path: chmi
