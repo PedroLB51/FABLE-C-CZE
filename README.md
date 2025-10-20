@@ -30,6 +30,8 @@ The Repository hosts the national calibration data, scripts, and metadata.
 ```
 ## 3. Workflow for handling files
 Files are stored **in the CzechGlobe CESNET ownCloud environment** base on their category.
+
+Acces to the owncloud: **[CzechGlobe FABLE-C-CZE owncloud](https://owncloud.cesnet.cz/index.php/s/DJKP7NBbY0wskiE)** (password:fableczechglobe123)
  
 Raw data **is immutable**, processed data will be updated as part of calibration.
 
