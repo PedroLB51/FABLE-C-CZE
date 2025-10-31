@@ -1,0 +1,6 @@
+outs:
+- md5: 33a3b21b58570715b6b497cd781462b3.dir
+  size: 237478
+  nfiles: 1
+  hash: md5
+  path: iiasa
