@@ -1,6 +1,6 @@
 outs:
-- md5: b56ba2cca280525b7b1cbf7260fcbee2.dir
-  size: 6774
-  nfiles: 1
+- md5: 74cb11933eb9bf253d748e95a9385eb1.dir
+  size: 67235
+  nfiles: 2
   hash: md5
   path: mze
