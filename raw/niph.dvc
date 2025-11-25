@@ -1,0 +1,6 @@
+outs:
+- md5: 3a7947fe982e2042499612cb0fa656a8.dir
+  size: 166675
+  nfiles: 2
+  hash: md5
+  path: niph
