@@ -1,0 +1,6 @@
+outs:
+- md5: e799e28e640b79548e4c6e8837323078.dir
+  size: 16110
+  nfiles: 1
+  hash: md5
+  path: cenia
