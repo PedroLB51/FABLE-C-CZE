@@ -1,0 +1,6 @@
+outs:
+- md5: 32441b3976af7fcf722a84240c97123f.dir
+  size: 193553551
+  nfiles: 330
+  hash: md5
+  path: corine
