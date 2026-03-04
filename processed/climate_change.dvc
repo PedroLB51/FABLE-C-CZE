@@ -1,0 +1,6 @@
+outs:
+- md5: b38cf942d19f06d05990b11088784cc5.dir
+  size: 285567
+  nfiles: 1
+  hash: md5
+  path: climate_change
