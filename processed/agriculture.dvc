@@ -1,6 +1,5 @@
 outs:
-- md5: bdd961b098c516a92ee702d2ab4ce0ba.dir
-  size: 1301359
+- md5: 25b0d98f53d8f40d3362c5a2e4d10b2d.dir
   nfiles: 3
   hash: md5
   path: agriculture
