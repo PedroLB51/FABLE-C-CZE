@@ -1,6 +1,5 @@
 outs:
-- md5: e420c2c394b6c32b3e863ad9b0fd8a95.dir
-  size: 96993
+- md5: 64a33177ac71b153a4312456d4b40411.dir
   nfiles: 2
   hash: md5
   path: land_use
